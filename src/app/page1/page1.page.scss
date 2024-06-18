@@ -1,204 +1,608 @@
 ion-img {
-position: absolute;
-width: 24px;
-height: 24px;
-left: 39px;
-top: 62px;
-}
-
-p {
-
-position: absolute;
-width: 99px;
-height: 24px;
-left: 77px;
-top: 62px;
-
-font-family: 'Montserrat';
-font-style: normal;
-font-weight: 400;
-font-size: 10px;
-line-height: 24px;
-
-text-align: center;
-
-color: #050609;
-}
-
-.p2 {
-position: absolute;
-width: 153px;
-height: 11px;
-left: 3px;
-top: 127px;
-
-font-family: 'Montserrat';
-font-style: normal;
-font-weight: 400;
-font-size: 10px;
-line-height: 12px;
-
-color: #828B93;
-
-}
-
-h1 {
-
-position: absolute;
-width: 352px;
-height: 20px;
-left: 39px;
-top: 148px;
-
-font-family: 'Montserrat';
-font-style: normal;
-font-weight: 700;
-font-size: 16px;
-line-height: 20px;
-
-color: #050609;
-}
-
-.user {
-
-position: absolute;
-width: 34px;
-height: 34px;
-left: 357px;
-top: 57px;
-}
-
-.p3 {
-/* Categorias */
-
-position: absolute;
-width: 153px;
-height: 20px;
-left: 3px;
-top: 221px;
-
-font-family: 'Montserrat';
-font-style: normal;
-font-weight: 400;
-font-size: 14px;
-line-height: 17px;
-
-color: #050609;
-
-
-
-
-}
-
-.retangulo {
-    /* Rectangle 5 */
-
-position: absolute;
-width: 123px;
-height: 150px;
-left: 38px;
-top: 267px;
-
-background: #C5D7B1;
-border-radius: 16px;
-
-
-
-}
-
-.retangulo2 {
-/* Rectangle 8 */
-
-position: absolute;
-width: 123px;
-height: 45px;
-left: 38px;
-top: 372px;
-
-background: rgba(130, 139, 147, 0.3);
-border-radius: 16px;
-}
-
-.frutas {
-/* Frutas */
-
-position: absolute;
-width: 123px;
-height: 45px;
-left: 38px;
-top: 15px;
-font-family: 'Montserrat';
-font-style: normal;
-font-weight: 400;
-font-size: 14px;
-line-height: 17px;
-
-color: #050609;
-
-
-}
-
-.frutas_png{
-position: absolute;
-width: 102px;
-height: 102px;
-left: 49px;
-top: 271px;
-
-}
-
-.retangulo3 {
-
-position: absolute;
-width: 123px;
-height: 150px;
-left: 171px;
-top: 267px;
-
-background: #92B6FA;
-border-radius: 16px;
-
-}
-
-.retangulo4 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 39px;
+    top: 62px;
+    }
+    
+    
+    p {
+    
+    
+    position: absolute;
+    width: 99px;
+    height: 24px;
+    left: 77px;
+    top: 62px;
+    
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 24px;
+    
+    
+    text-align: center;
+    
+    
+    color: #050609;
+    }
+    
+    
+    .p2 {
+    position: absolute;
+    width: 153px;
+    height: 11px;
+    left: 3px;
+    top: 127px;
+    
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    
+    
+    color: #828B93;
+    
+    
+    }
+    
+    
+    h1 {
+    
+    
+    position: absolute;
+    width: 352px;
+    height: 20px;
+    left: 39px;
+    top: 148px;
+    
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    
+    
+    color: #050609;
+    }
+    
+    
+    .user {
+    
+    
+    position: absolute;
+    width: 34px;
+    height: 34px;
+    left: 357px;
+    top: 57px;
+    }
+    
+    
+    .p3 {
+    /* Categorias */
+    
+    
+    position: absolute;
+    width: 153px;
+    height: 20px;
+    left: 3px;
+    top: 221px;
+    
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    
+    
+    color: #050609;
+    
+    
+    
+    
+    
+    
+    
+    
+    }
+    
+    
+    .retangulo {
+   
+    position: absolute;
+    width: 123px;
+    height: 150px;
+    left: 38px;
+    top: 267px;
+    background: #C5D7B1;
+    border-radius: 16px;
+    
+    }
+    
+    
+    .retangulo2 {
+    /* Rectangle 8 */
+    
+    
     position: absolute;
     width: 123px;
     height: 45px;
-    left: 171px;
+    left: 38px;
     top: 372px;
-
+    
+    
     background: rgba(130, 139, 147, 0.3);
     border-radius: 16px;
-
-}
-
-.diversos_png {
-
+    }
+    
+    
+    .frutas {
+    /* Frutas */
+    
+    
+    position: absolute;
+    width: 123px;
+    height: 45px;
+    left: 38px;
+    top: 15px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    
+    
+    color: #050609;
+    
+    
+    
+    
+    }
+    
+    
+    .frutas_png{
     position: absolute;
     width: 102px;
     height: 102px;
-    left: 185px;
+    left: 49px;
     top: 271px;
-}
+    
+    
+    }
+    
+    
+    .retangulo3 {
+    
+    
+    position: absolute;
+    width: 123px;
+    height: 150px;
+    left: 171px;
+    top: 267px;
+    
+    
+    background: #92B6FA;
+    border-radius: 16px;
+    
+    
+    }
+    
+    
+    .retangulo4 {
+        position: absolute;
+        width: 123px;
+        height: 45px;
+        left: 171px;
+        top: 372px;
+    
+    
+        background: rgba(130, 139, 147, 0.3);
+        border-radius: 16px;
+    
+    
+    }
+    
+    
+    .diversos_png {
+    
+    
+        position: absolute;
+        width: 102px;
+        height: 102px;
+        left: 185px;
+        top: 271px;
+    }
+    
+    
+    .diversos {
+    position: absolute;
+    width: 62px;
+    height: 16px;
+    left: 30px;
+    top: 15px;
+    
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    
+    
+    color: #050609;
+    }
+    
+    
+    .retangulo5 {
+    
+    
+    position: absolute;
+    width: 123px;
+    height: 150px;
+    left: 305px;
+    top: 267px;
+    
+    
+    background: #F0BDB2;
+    border-radius: 16px;
+    
+    
+    }
+    
+    
+    .acougue_png {
+    position: absolute;
+    width: 102px;
+    height: 102px;
+    top: 271px;
+    left: 321px;
+    gap: 0px;
+    opacity: 0px;
+    }
+    
+    
+    .retangulo6 {
+    position: absolute;
+    width: 123px;
+    height: 45px;
+    left: 305px;
+    top: 372px;
+    
+    
+    background: rgba(130, 139, 147, 0.3);
+    border-radius: 16px;
+    }
+    
+    
+    .acougue {
+        position: absolute;
+        width: 65px;
+        height: 16px;
+        left: 36px;
+        top: 15px;
+       
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 17px;
+       
+        color: #050609;
+    
+    
+    }
+    
+    
+    .p4 {
+    
+    
+    position: absolute;
+    width: 153px;
+    height: 20px;
+    left: 29px;
+    top: 452px;
+    
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    
+    
+    color: #050609;
+    }
+    
+    
+    .imagemFrutas {
+    width: 77px;
+    height: 77px;
+    top: 499px;
+    left: 42px;
+    gap: 0px;
+    opacity: 0px;
+    
+    
+    }
+    
+    
+    .frutas1 {
+    
+    
+    position: absolute;
+    width: 45px;
+    height: 20px;
+    left: 131px;
+    top: 510px;
+    
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    
+    
+    color: #050609;
+    }
+    
+    
+    .frutas2 {
+    
+    
+    position: absolute;
+    width: 58px;
+    height: 11px;
+    left: 131px;
+    top: 540px;
+    
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    
+    
+    color: #828B93;
+    }
+    
+    
+    .imagemDiversos {
+    width: 77px;
+    height: 77px;
+    top: 598px;
+    left: 41px;
+    gap: 0px;
+    opacity: 0px;
+    }
+    
+    
+    .diversos1 {
+    position: absolute;
+    width: 269px;
+    height: 30px;
+    left: 131px;
+    top: 600px;
+    
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    
+    
+    color: #050609;
+    }
+    
+    
+    .diversos2 {
+    position: absolute;
+    width: 58px;
+    height: 11px;
+    left: 131px;
+    top: 630px;
+    
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    }
+    
+    
+    .imagemAcougue {
+    width: 78px;
+    height: 78px;
+    top: 705px;
+    left: 41px;
+    gap: 0px;
+    opacity: 0px;
+    }
+    
+    
+    .acougue1 {
+        position: absolute;
+        width: 269px;
+        height: 30px;
+        left: 131px;
+        top: 710px;
+       
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 17px;
+       
+        color: #050609;
+    }
+    
+    
+    .acougue2 {
+    position: absolute;
+    width: 58px;
+    height: 11px;
+    left: 131px;
+    top: 740px;
+    
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    }
+    
+    
+    .preco1 {
+    position: absolute;
+    width: 56px;
+    height: 13px;
+    left: 339px;
+    top: 514px;
+    
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    
+    
+    color: #050609;
+    }
+    
+    
+    .itens1 {
+    
+    
+    position: absolute;
+    width: 31px;
+    height: 11px;
+    left: 360px;
+    top: 540px;
+    
+    
+    font-family: 'Sansation';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 11px;
+    
+    
+    color: #828B93;
+    }
+    
+    
+    .preco2 {
+        position: absolute;
+        width: 56px;
+        height: 13px;
+        left: 339px;
+        top: 600px;
+       
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 17px;
+       
+        color: #050609;
+    }
+    
+    
+    .itens2 {
+    position: absolute;
+    width: 31px;
+    height: 11px;
+    left: 360px;
+    top: 630px;
+    
+    
+    font-family: 'Sansation';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 11px;
+    
+    
+    color: #828B93;
+    }
+ 
+    .preco3 {
+        position: absolute;
+        width: 56px;
+        height: 13px;
+        left: 339px;
+        top: 710px;
+       
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 17px;
+       
+        color: #050609;
+    }
 
-.diversos {
+    .itens3 {
+    position: absolute;
+    width: 31px;
+    height: 11px;
+    left: 360px;
+    top: 740px;
+    
+    font-family: 'Sansation';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 11px;
+    }
 
+    .home {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 39px;
+    top: 885px;
+    }
 
-width: 62px;
-height: 16px;
-top: 389px;
-left: 202px;
-gap: 0px;
-opacity: 0px;
+    .page1 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 885px;
+    left: 152px;
 
+    }
 
-font-family: 'Montserrat';
-font-style: normal;
-font-weight: 400;
-font-size: 14px;
-line-height: 17px;
+    .page2 {
+        position: absolute;
+        width: 24px;
+        height: 24px;
+        top: 885px;
+        left: 257px;
+        gap: 0px;
+        opacity: 0px;
+        
+    }
 
-color: #050609;
-
-
-}
+    .page3 {
+        position: absolute;
+        width: 24px;
+        height: 24px;
+        top: 885px;
+        left: 362px;
+        gap: 0px;
+        opacity: 0px;
+        
+    }
