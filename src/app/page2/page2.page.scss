@@ -75,3 +75,70 @@ ion-searchbar {
     gap: 0px;
     opacity: 0px;
 }
+
+.card-frutas {
+position: absolute;
+width: 185px;
+height: 78px;
+left: 20px;
+top: 204px;
+
+background: #C5D7B1;
+border-radius: 8px;
+
+}
+
+.abacate {
+position: absolute;
+width: 78px;
+height: 78px;
+left: 40px;
+top: 225px;
+
+}
+
+.frutas {
+position: absolute;
+width: 67px;
+height: 16px;
+left: 108px;
+top: 245px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+color: #050609;
+}
+
+.card-diversos {
+position: absolute;
+width: 185px;
+height: 78px;
+left: 218px;
+top: 204px;
+background: #92B6FA;
+border-radius: 8px;
+}
+
+.chocolate {
+    width: 78px;
+    height: 78px;
+    top: 226px;
+    left: 231px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+
+.card-tres {
+    left: 218px;
+    top: 234px;
+    width: 185px;
+    height: 78px;
+    background: #60F8E9;
+
+
+    border-radius: 8px;
+}
