@@ -132,13 +132,88 @@ border-radius: 8px;
     
 }
 
-.card-tres {
+.card-bebidas {
     left: 218px;
     top: 234px;
     width: 185px;
     height: 78px;
     background: #60F8E9;
-
-
     border-radius: 8px;
+}
+
+.diversos
+{
+    position: absolute;
+    width: 67px;
+    height: 16px;
+    left: 303px;
+    top: 243px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+
+    color: #050609;
+}
+
+.card-acougue
+{
+    position: absolute;
+    width: 185px;
+    height: 78px;
+    left: 20px;
+    top: 294px;
+
+    background: #F0BDB2;
+    border-radius: 8px;
+}
+
+.frango {
+position: absolute;
+width: 78px;
+height: 78px;
+left: 40px;
+top: 320px;
+}
+
+.acougue {
+    position: absolute;
+    width: 67px;
+    height: 16px;
+    left: 110px;
+    top: 339px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    
+    color: #050609;
+}
+
+.bebida {
+    position: absolute;
+    width: 56px;
+    height: 73px;
+    left: 248px;
+    top: 320px;
+}
+
+.bebidas {
+    position: absolute;
+    width: 67px;
+    height: 16px;
+    left: 303px;
+    top: 343px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+
+    color: #050609;
 }

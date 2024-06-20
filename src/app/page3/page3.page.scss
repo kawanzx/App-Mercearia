@@ -1,0 +1,395 @@
+.seta {
+    position: absolute;
+    width: 67px;
+    height: 67px;
+    left: 37px;
+    top: 30px;
+    
+    background: #F8F9FA;
+    border-radius: 50%;
+    
+    
+    }
+
+.Back
+{
+
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 63px;
+top: 61px;
+
+color: #828B93;
+
+}
+
+.carrinho
+{
+position: absolute;
+width: 237px;
+height: 41px;
+left: 40px;
+top: 137px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 34px;
+line-height: 41px;
+
+color: #050609;
+}
+
+.Abacate_card
+{
+
+    position: absolute;
+    width: 77px;
+    height: 77px;
+    left: 25px;
+    top: 205px; //480
+
+    background: #C5D7B1;
+        border-radius: 120px;
+}
+
+.Abacate
+{
+
+    position: absolute;
+    width: 77px;
+    height: 77px;
+    left: 43px;
+    top: 225px; //500
+}
+
+.Frutas
+{
+
+    position: absolute;
+    width: 45px;
+    height: 20px;
+    left: 131px;
+    top: 235px; //510
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+
+    color: #050609;
+}
+
+.FrutasValor
+{
+
+    position: absolute;
+    width: 56px;
+    height: 13px;
+    left: 131px;
+    top: 252px; //17 a mais se comparado com o txt
+
+    font-family: 'Montserrat';
+    font-size: 10px;
+    font-weight: 700;
+    line-height: 12px;
+    text-align: left;
+
+
+    color: #050609;
+}
+
+.Editar
+{
+position: absolute;
+width: 32px;
+height: 11px;
+left: 340px;
+top: 250px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+
+color: #7785DB;
+}
+
+.Itens
+{
+
+    position: absolute;
+    width: 35px;
+    height: 11px;
+    left: 175px;
+    top: 262px;
+
+    font-family: 'Montserrat';
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 12px;
+    text-align: left;
+
+
+    color: #828B93;
+}
+
+.Chocolate_card
+{
+
+    position: absolute;
+    width: 77px;
+    height: 77px;
+    left: 25px;
+    top: 310px;
+
+    background: #92B6FA;
+            border-radius: 120px;
+}
+
+.Chocolate
+{
+    position: absolute;
+    width: 77px;
+    height: 77px;
+    left: 41px;
+    top: 334px;
+}
+
+.Diversos
+{
+
+position: absolute;
+width: 62px;
+height: 20px;
+left: 131px;
+top: 344px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #050609;
+
+
+}
+
+.ChocoValor
+{
+    position: absolute;
+    width: 56px;
+    height: 13px;
+    left: 131px;
+    top: 361px; //17 a mais se comparado com o txt
+
+    font-family: 'Montserrat';
+    font-size: 10px;
+    font-weight: 700;
+    line-height: 12px;
+    text-align: left;
+}
+
+.Editar2
+{
+    position: absolute;
+    width: 32px;
+    height: 11px;
+    left: 340px;
+    top: 359px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    
+    color: #7785DB;
+}
+
+.Itens2
+{
+    position: absolute;
+    width: 35px;
+    height: 11px;
+    left: 175px;
+    top: 371px;
+
+    font-family: 'Montserrat';
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 12px;
+    text-align: left;
+
+color: #828B93;
+}
+
+.Carne_card
+{
+    position: absolute;
+    width: 77px;
+    height: 77px;
+    left: 25px;
+    top: 415px;
+
+    background: #F0BDB2;
+            border-radius: 120px;
+}
+
+.Carne
+{
+    position: absolute;
+    width: 77px;
+    height: 77px;
+    left: 43px;
+    top: 439px;
+}
+
+.Acougue
+{
+
+position: absolute;
+width: 69px;
+height: 20px;
+left: 131px;
+top: 449px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #050609;
+}
+
+.CarneValor
+{
+    position: absolute;
+    width: 56px;
+    height: 13px;
+    left: 131px;
+    top: 466px; //17 a mais se comparado com o txt
+
+    font-family: 'Montserrat';
+    font-size: 10px;
+    font-weight: 700;
+    line-height: 12px;
+    text-align: left;
+
+    color: #050609;
+}
+
+.Editar3
+{
+    position: absolute;
+    width: 32px;
+    height: 11px;
+    left: 340px;
+    top: 464px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    
+    color: #7785DB;
+}
+
+.Itens3
+{
+    position: absolute;
+    width: 35px;
+    height: 11px;
+    left: 175px;
+    top: 476px;
+
+    font-family: 'Montserrat';
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 12px;
+    text-align: left;
+    
+    color: #828B93;
+}
+
+.Pay_card
+{
+position: absolute;
+width: 350px;
+height: 105px;
+left: 24px;
+top: 780px;
+
+background: #7785DB;
+border-radius: 16px;
+}
+.Pay
+{
+
+box-sizing: border-box;
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+padding: 20px;
+gap: 4px;
+
+position: absolute;
+width: 190px;
+
+left: 210px;
+top: 810px;
+
+border-radius: 8px;
+--border-color: #FFFFFF;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 200;
+font-size: 16px;
+
+color: #FFFFFF;
+}
+
+
+
+.Pay_Total
+{
+position: absolute;
+width: 84px;
+height: 20px;
+left: 77px;
+top: 840px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+
+color: #FFFFFF;
+}
+
+.Totaltxt
+{
+position: absolute;
+width: 95px;
+height: 20px;
+left: 68px;
+top: 820px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 200;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+}
